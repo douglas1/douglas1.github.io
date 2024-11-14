@@ -1,0 +1,14 @@
+---
+layout: post
+title:  "Welcome to My Blog"
+date:   2024-11-14 13:24:00 -0600
+categories: blog update
+---
+Welcome to my new blog.  It is primarily to document my journey in web development.  My primary interest at this time is [Ruby][ruby-home] on [Rails][rails-home].
+
+From a technical standpoint... This blog is powered by [Jekyll][jekyll-home] and hosted on [Github Pages][github-pages].  More details [here](/about/).
+
+[rails-home]:    https://rubyonrails.org/
+[ruby-home]:     https://www.ruby-lang.org/en/
+[jekyll-home]:   https://jekyllrb.com
+[github-pages]:  https://docs.github.com/en/pages
